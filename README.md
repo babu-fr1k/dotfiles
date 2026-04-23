@@ -1,4 +1,3 @@
-# 💤 LazyVim
+# Actual config here
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Project on stand-by atm
